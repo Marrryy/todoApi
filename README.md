@@ -1,3 +1,9 @@
+How to run :
+1. Pull this repo
+2. intall dotnet
+3. go to directory
+4. run command `dotnet run`
+
 BaseURL=localhost:5000/api/TodoApi
 
 Get All Todo’s
